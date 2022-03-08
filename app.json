@@ -12,9 +12,8 @@
       "index",
       "inline"
     ],
-
-"repository": "https://github.com/PrakashRakhala/Media-Search-bot",
     "website": "https://github.com/Mahesh0253/Media-Search-bot",
+    "repository": "https://github.com/PrakashRakhala/Media-Search-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
