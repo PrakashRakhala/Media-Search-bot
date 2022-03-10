@@ -1,1 +1,1 @@
-worker: python3 media-search.bot
+worker: python3 bot.py
